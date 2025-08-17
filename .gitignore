@@ -141,3 +141,4 @@ vite.config.ts.timestamp-*
 **/deno.runtime.d.ts
 **/error.txt
 **/.claude
+**/.env
